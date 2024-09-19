@@ -123,19 +123,3 @@ $ ./restartall.sh
 ![devops.png](images/devops.png)
 ### 流程审批
 ![process1.png](images/process1.png)
-
-
-<a id="guidance"></a>
-## 操作指导
-
-> 帮助文档：  https://www.cornerstone365.cn/doc/
-
-> 上手视频： https://www.cornerstone365.cn/videos.html
-> 
-## 联系我们
-* 深圳市基石协作科技有限公司
-* 地址：深圳市南山区粤海街道深圳湾生态园7B-812
-* 座机：400-185-5850
-* 手机：16675114379
-* 邮箱: sales@conrerstone365.cn<br>
-![img.png](images/wechat.png)
